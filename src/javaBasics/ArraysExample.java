@@ -11,6 +11,7 @@ public class ArraysExample {
         System.out.println("Email: " + Arrays.toString(email));
         System.out.println("Username: " + Arrays.toString(username));
         System.out.println("Password: " + Arrays.toString(password));
+        System.out.println();
     }
 }
 
